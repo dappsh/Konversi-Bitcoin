@@ -1,12 +1,13 @@
 
 MENAMPILKAN TABEL HARGA JUAL & BELI BITCOIN
-![alt text] (https://github.com/dappsh/BITCOIN-DWI_AJENG-JC05/blob/master/public/gbr/TABELBITCOIN.png)
+
+![alt text](https://github.com/dappsh/BITCOIN-DWI_AJENG-JC05/blob/master/public/gbr/TABELBITCOIN.png)
 
 KONVERSI RUPIAH KE BITCOIN
-![alt text] (https://github.com/dappsh/BITCOIN-DWI_AJENG-JC05/blob/master/public/gbr/RP%20TO%20BTC.png)
+![alt text](https://github.com/dappsh/BITCOIN-DWI_AJENG-JC05/blob/master/public/gbr/RP%20TO%20BTC.png)
 
 KONVERSI BITCOIN KE RUPIAH
-![alt text] (https://github.com/dappsh/BITCOIN-DWI_AJENG-JC05/blob/master/public/gbr/BTC%20TO%20RP.png)
+![alt text](https://github.com/dappsh/BITCOIN-DWI_AJENG-JC05/blob/master/public/gbr/BTC%20TO%20RP.png)
 
 
 This project was bootstrapped with [Create React App](https://github.com/facebookincubator/create-react-app).
