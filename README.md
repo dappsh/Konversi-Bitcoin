@@ -1,12 +1,12 @@
 
-# MENAMPILKAN TABEL HARGA JUAL & BELI BITCOIN
->Menampilkan tabel harga beli & harga jual Bitcoin
->dengan mata uang :
->1. Dollar Australia
->1. Euro Eropa
->1. Pondsterling Inggris
->1. Yen Jepang 
->1. Dollar America.
+# MENAMPILKAN TABEL HARGA JUAL & BELI BITCOIN 💲
+Tabel harga beli & harga jual Bitcoin 
+dengan mata uang :
+1. Dollar Australia
+1. Euro Eropa
+1. Pondsterling Inggris
+1. Yen Jepang 
+1. Dollar America.
 
 ![alt text](https://github.com/dappsh/BITCOIN-DWI_AJENG-JC05/blob/master/public/gbr/TABELBITCOIN.png)
 
