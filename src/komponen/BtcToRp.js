@@ -14,7 +14,11 @@ class TabelBTC extends Component {
 
     konversiBitcoin(bitC) {
 
-        var url = 'https://blockchain.info/tobtc?currency=USD&value=' + (14000/bitC )
+        var url = 'https://blockchain.info/tobtc?currency=USD&value=' + (105564771*(bitC*7540))
+        // MENCARI NILAI TUKAR KE RUPIAH DENGAN CARA 
+        // 14.000 / USERINPUT (CONTOH: 0.00013266) = 105.564.771
+        // HASIL DIRUPIAHKAN : 105.564.771 / 14.000 (DOLAR) = 7.540
+        // MAKA VALUE UNTUK BITCOIN KE RUPIAH ADALAH (105564771*(NILAI USER INPUT *7540))
         axios.get(url)
             .then((cobaBtc) => {
                 console.log(cobaBtc.data);
@@ -26,6 +30,9 @@ class TabelBTC extends Component {
             })
 
     }
+
+
+
 
     render() {
         var gaya = {
