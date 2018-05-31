@@ -1,13 +1,23 @@
 
-MENAMPILKAN TABEL HARGA JUAL & BELI BITCOIN
+# MENAMPILKAN TABEL HARGA JUAL & BELI BITCOIN
+>Menampilkan tabel harga beli & harga jual Bitcoin
+dengan mata uang :
+1. Dollar Australia
+1. Euro Eropa
+1. Pondsterling Inggris
+1. Yen Jepang 
+1. Dollar America.
 
 ![alt text](https://github.com/dappsh/BITCOIN-DWI_AJENG-JC05/blob/master/public/gbr/TABELBITCOIN.png)
 
-KONVERSI RUPIAH KE BITCOIN
+# KONVERSI RUPIAH KE BITCOIN
 ![alt text](https://github.com/dappsh/BITCOIN-DWI_AJENG-JC05/blob/master/public/gbr/RP%20TO%20BTC.png)
 
-KONVERSI BITCOIN KE RUPIAH
+![alt text](https://github.com/dappsh/BITCOIN-DWI_AJENG-JC05/blob/master/public/gbr/HASIL%20RP%20TO%20BTC.png)
+
+# KONVERSI BITCOIN KE RUPIAH
 ![alt text](https://github.com/dappsh/BITCOIN-DWI_AJENG-JC05/blob/master/public/gbr/BTC%20TO%20RP.png)
+![alt text](https://github.com/dappsh/BITCOIN-DWI_AJENG-JC05/blob/master/public/gbr/HASIL%20BTC%20TO%20RP.png)
 
 
 This project was bootstrapped with [Create React App](https://github.com/facebookincubator/create-react-app).
