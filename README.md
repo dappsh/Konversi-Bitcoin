@@ -12,11 +12,12 @@ dengan mata uang :
 
 # KONVERSI RUPIAH KE BITCOIN
 ![alt text](https://github.com/dappsh/BITCOIN-DWI_AJENG-JC05/blob/master/public/gbr/RP%20TO%20BTC.png)
-
+## HASIL KONVERSI RUPIAH KE BITCOIN
 ![alt text](https://github.com/dappsh/BITCOIN-DWI_AJENG-JC05/blob/master/public/gbr/HASIL%20RP%20TO%20BTC.png)
 
 # KONVERSI BITCOIN KE RUPIAH
 ![alt text](https://github.com/dappsh/BITCOIN-DWI_AJENG-JC05/blob/master/public/gbr/BTC%20TO%20RP.png)
+## HASIL KONVERSI BITCOIN KE RUPIAH
 ![alt text](https://github.com/dappsh/BITCOIN-DWI_AJENG-JC05/blob/master/public/gbr/HASIL%20BTC%20TO%20RP.png)
 
 
