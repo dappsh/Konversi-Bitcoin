@@ -1,6 +1,6 @@
 
-# MENAMPILKAN TABEL HARGA JUAL & BELI BITCOIN
->Menampilkan tabel harga beli & harga jual Bitcoin
+# MENAMPILKAN TABEL HARGA JUAL & BELI BITCOIN 💲
+Tabel harga beli & harga jual Bitcoin 
 dengan mata uang :
 1. Dollar Australia
 1. Euro Eropa
